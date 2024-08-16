@@ -4,7 +4,7 @@ This project showcases a simple and responsive dashboard created using HTML, CSS
 
 ## Preview
 
-![Dashboard Preview](assets/img/1.png)
+![Dashboard Preview](img/1.png)
 
 ## Project Contents
 
